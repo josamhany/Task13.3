@@ -13,4 +13,3 @@
 - **PyTorch**: Offers great flexibility for custom architectures, dynamic changes, and low-level control over the training process.
 - **TensorFlow (Keras)**: While easier to use, TensorFlow is less flexible for experimenting with novel architectures due to its high-level abstractions.
 
-In summary, PyTorch is better suited for experimentation and research, whereas TensorFlow is ideal for fast development and deployment at scale.
