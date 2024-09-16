@@ -1,10 +1,6 @@
 # Task13.3
 # Neural Network from Scratch
 
-## Overview
-
-This project implements a basic feedforward neural network from scratch, based on Chapter 1 of Michael Nielsen's book, *Neural Networks and Deep Learning*. The network is trained using mini-batch stochastic gradient descent and backpropagation without any deep learning libraries.
-
 ### Key Concepts
 
 - **Neural Network Structure**:
